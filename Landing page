@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to our Awesome Landing Page!</h1>
+        <p>Where Dreams Come True</p>
+    </header>
+
+    <main>
+        <section class="features">
+            <h2>Features</h2>
+            <div class="feature">
+                <img src="feature1.jpg" alt="Feature 1">
+                <h3>Feature 1</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+            <div class="feature">
+                <img src="feature2.jpg" alt="Feature 2">
+                <h3>Feature 2</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+            <div class="feature">
+                <img src="feature3.jpg" alt="Feature 3">
+                <h3>Feature 3</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+        </section>
+
+        <section class="cta">
+            <h2>Sign Up Now!</h2>
+            <p>Don't miss out on our amazing offers.</p>
+            <button>Sign Up</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Awesome Landing Page. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
